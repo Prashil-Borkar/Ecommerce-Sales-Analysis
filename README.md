@@ -40,7 +40,9 @@ Source: https://archive.ics.uci.edu/dataset/352/online-retail
 
 ## Dashboard
 
-![E-commerce Dashboard](images/dashboard.png)
+## Dashboard
+
+![E-commerce Sales Dashboard](dashboard.png)
 
 ## Key Findings
 
