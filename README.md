@@ -48,26 +48,21 @@ Source: https://archive.ics.uci.edu/dataset/352/online-retail
 
 
 
-ECOMMERCE SALES REPORT
-----------------------
-Total Revenue: 8885586.15
-Total Orders: 17282
-Average Order Value: 514.15
+## Key Findings
 
-Top Country:
-Country
-United Kingdom    7283438.304
-Name: TotalSales, dtype: float64
+- **Total Revenue:** £8,885,586.15
+- **Total Orders:** 17,282
+- **Average Order Value:** £514.15
+- **Highest Revenue Country:** United Kingdom (£7.28M, approximately 82% of total revenue)
+- **Highest Revenue Product:** PAPER CRAFT, LITTLE BIRDIE (£168,469.60)
+- **Highest Spending Customer:** Customer ID 14646 (£280,206.02)
 
-Top Product:
-Description
-PAPER CRAFT , LITTLE BIRDIE    168469.6
-Name: TotalSales, dtype: float64
+### Business Recommendations
 
-Top Customer:
-CustomerID
-14646.0    280206.02
-Name: TotalSales, dtype: float64
+- Explore opportunities to increase sales outside the United Kingdom.
+- Monitor inventory for high-revenue products.
+- Consider loyalty programs for high-value customers.
+- Analyze seasonal revenue trends to improve inventory planning.
 
 ## Conclusion
 
